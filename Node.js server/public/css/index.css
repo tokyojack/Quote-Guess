@@ -1,0 +1,21 @@
+#button {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  left: 50%;
+  top: 40%;
+  margin-top: -15px;
+  margin-left: -100px;
+  position: fixed;
+}
+
+.container {
+  padding-top: 50px;
+}
+
+.quote {
+  padding-bottom: 30px;
+}
+
+.hidden {
+  visibility: hidden;
+}
