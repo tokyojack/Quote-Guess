@@ -1,5 +1,5 @@
 <h2  align="center">Quote-Guess</h2>
-<p  align="center">A website that uses Node.js, Redis, and Flask to scrape random quotes and questions the who created them</p>
+<p  align="center">A website that uses Node.js, Redis, and Flask to scrape random quotes and then questions the user about who created them</p>
 
 <br/>
 
